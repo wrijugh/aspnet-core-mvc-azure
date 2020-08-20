@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/52f0ef4f-ce53-45fb-9b12-04e380a10f4c/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/webwg",
+    "appService.deploySubpath": "publish"
+}
